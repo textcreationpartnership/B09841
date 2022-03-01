@@ -1,0 +1,283 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Reading fight.  To the tune of, Lylliburlero, or, O brother Teague, dost hear the decree?</title>
+            <author>Reading, John.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1689</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 5 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B09841</idno>
+            <idno type="STC">Wing R454</idno>
+            <idno type="STC">ESTC R182396</idno>
+            <idno type="EEBO-CITATION">64551647</idno>
+            <idno type="OCLC">ocm 64551647</idno>
+            <idno type="VID">184749</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B09841)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 184749)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2871:15)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Reading fight.  To the tune of, Lylliburlero, or, O brother Teague, dost hear the decree?</title>
+                  <author>Reading, John.</author>
+               </titleStmt>
+               <extent>1 sheet ([2] p.).   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Printed in the year 1689.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Attributed to John Reading.  Cf. Wing (2nd ed.).</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of original in: Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ballads, English --  17th century.</term>
+               <term>Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-03</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2011-03</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="ballad">
+            <pb facs="tcp:184749:1" rendition="simple:additions"/>
+            <head>Reading Fight.</head>
+            <opener>To the Tune of <hi>Lylliburlero;</hi> OR, <hi>O Brother</hi> Teague, <hi>doſt hear the
+Decree?</hi>
+            </opener>
+            <lg n="1">
+               <head>1</head>
+               <l>DOſt hear, Brother <hi>Teague,</hi> how de Cauſe goes?</l>
+               <l>In <hi>Reading</hi> they put Blood on our Noſe:</l>
+               <l>We dere did agree in de Dark to creep,</l>
+               <l>And Maſſacre all in deir dead Sleep.</l>
+               <l>
+                  <hi>Lero lero, Lero lero, Lylliburlero, Bullen-a-la.</hi>
+               </l>
+            </lg>
+            <lg n="2">
+               <head>2</head>
+               <l>But de ſly Her'ticks watching all Night,</l>
+               <l>Put us to ſtink for fear dey would Fight:</l>
+               <l>We den did conſult to lay new Snares,</l>
+               <l>And de next Day to kill dem at Pray'rs.</l>
+               <l>
+                  <hi>Lero lero, &amp;c.</hi>
+               </l>
+            </lg>
+            <lg n="3">
+               <head>3</head>
+               <l>Five Hundred and more true Boys combin'd,</l>
+               <l>To Murder dem all before dey Din'd:</l>
+               <l>Each kept his Poſt with Hand on his Sword;</l>
+               <l>Thus we all ſtood expecting de Word.</l>
+               <l>
+                  <hi>Lero lero, &amp;c.</hi>
+               </l>
+            </lg>
+            <lg n="4">
+               <head>4</head>
+               <l>But now by my Shoul, me quake to tell,</l>
+               <l>Eighty wild <hi>Dutchmen,</hi> as fierce as Di-vell,</l>
+               <l>All in a Trice ſo hedg'd us around,</l>
+               <l>Dat at de firſt Blow dey make us give Ground.</l>
+               <l>
+                  <hi>Lero lero, &amp;c.</hi>
+               </l>
+            </lg>
+            <lg n="5">
+               <head>5</head>
+               <l>Never were Men with Fury ſo ſwell'd,</l>
+               <l>With deir great Tooths deir Bridles dey held.</l>
+               <l>In one Hand a Sword, in d'other a Gun;</l>
+               <l>Thus Engag'd, we wiſely did Run.</l>
+               <l>
+                  <hi>Lero lero, &amp;c.</hi>
+               </l>
+            </lg>
+            <lg n="6">
+               <head>6</head>
+               <l>Our Captains ſwore to us, <hi>Face about;</hi>
+               </l>
+               <l>But 'twas too late, our Courage was out:</l>
+               <l>And dey were as quick to Fly as we,</l>
+               <l>None durſt look back on d' Enemy.</l>
+               <l>
+                  <hi>Lero lero, &amp;c.</hi>
+               </l>
+            </lg>
+            <lg n="7">
+               <head>7</head>
+               <l>Whilſt dey rode up, we Gallop't away,</l>
+               <l>We ſoon had enough of ſuch <hi>Dutch</hi> Play:</l>
+               <l>Dey hunted us round de Streets like Dogs,</l>
+               <l>O Brother <hi>Teague,</hi> we wiſht for our Bogs!</l>
+               <l>
+                  <hi>Lero lero, &amp;c.</hi>
+               </l>
+            </lg>
+            <lg n="8">
+               <pb facs="tcp:184749:2" rendition="simple:additions"/>
+               <head>8</head>
+               <l>We put d'Croſs on our Faces all o're;</l>
+               <l>But for all dat, we ran as before:</l>
+               <l>We fled for Salvaſhon in de Church;</l>
+               <l>But here by Chreeſt we were left in de Lurch.</l>
+               <l>
+                  <hi>Lero lero, &amp;c.</hi>
+               </l>
+            </lg>
+            <lg n="9">
+               <head>9</head>
+               <l>For d' Proteſtant Horſes found us out,</l>
+               <l>And put us all to a Second Rout:</l>
+               <l>We thought of d'Advice a Prieſt once gave,</l>
+               <l>Dat none but de Cath-lick Church can Save.</l>
+               <l>
+                  <hi>Lero lero, &amp;c.</hi>
+               </l>
+            </lg>
+            <lg n="10">
+               <head>10</head>
+               <l>Many <hi>Dear-Joys</hi> lay Wounded and Slain;</l>
+               <l>Some Ran away, and ne're came again:</l>
+               <l>And now by St. <hi>Patrick,</hi> what doſt think?</l>
+               <l>Have we not Reaſon enough to Stink?</l>
+               <l>
+                  <hi>Lero lero, &amp;c.</hi>
+               </l>
+            </lg>
+            <lg n="11">
+               <head>11</head>
+               <l>Now, are we not finely brought to Bed?</l>
+               <l>Inſtead of Lords, we are Knockt on de Head:</l>
+               <l>Dey promis'd us Houſes, Farms, and Land,</l>
+               <l>And told us, All was at our Command,</l>
+               <l>
+                  <hi>Lero lero, &amp;c.</hi>
+               </l>
+            </lg>
+            <lg n="12">
+               <head>12</head>
+               <l>When firſt we Arriv'd on d' <hi>Engliſh</hi> Shore;</l>
+               <l>But now we ſhall ne're ſee <hi>Ireland</hi> more.</l>
+               <l>O Padre <hi>Peters,</hi> dat Imp of de Pope,</l>
+               <l>Now he has brought our Bodies to Rope.</l>
+               <l>
+                  <hi>Lero lero, &amp;c.</hi>
+               </l>
+            </lg>
+            <lg n="13">
+               <head>13</head>
+               <l>Dere is a thing one Leg and a Pair,</l>
+               <l>Where many <hi>Teagues</hi> will ſay deir Laſt Pray'r:</l>
+               <l>Dere will d' Hangman put Neck in de Nooſe,</l>
+               <l>So wee <hi>Dear-Joys</hi> muſt dye in our Shoes.</l>
+               <l>
+                  <hi>Lero lero, &amp;c.</hi>
+               </l>
+            </lg>
+            <lg n="14">
+               <head>14</head>
+               <l>Ah! who in <hi>England</hi> would come to be Rich,</l>
+               <l>To ſwing like a Dog, and rot in a Ditch?</l>
+               <l>Let's fling down our Arms, and howl our <hi>A-bone,</hi>
+               </l>
+               <l>O <hi>Iriſh</hi> Lads, we are all undone.</l>
+               <l>
+                  <hi>Lero lero, &amp;c.</hi>
+               </l>
+            </lg>
+            <lg n="15">
+               <head>15</head>
+               <l>But what if we firſt with ſome Her-tick Blood,</l>
+               <l>Waſh out our Sins, and ſo become good?</l>
+               <l>Then let's dye Martyrs for Cath-lick Cauſe,</l>
+               <l>Since dat our Swords can't cut <hi>Penal Laws.</hi>
+               </l>
+               <l>
+                  <hi>Lero lero, Lero lero, Lylliburlero, Bullen-a-la.</hi>
+               </l>
+            </lg>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed in the Year 1689.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
